@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_item_home"
+        android:icon="@drawable/ic_home_24dp"
+        android:title="Home" />
+    <item
+        android:id="@+id/menu_item_photos"
+        android:icon="@drawable/ic_image_24dp"
+        android:title="Photos" />
+    <item
+            android:id="@+id/menu_item_restaurants"
+            android:icon="@drawable/ic_restaurant_black_24dp"
+            android:title="Restaurants" />
+    <item
+            android:id="@+id/menu_item_accounts"
+            android:icon="@drawable/ic_restaurant_black_24dp"
+            android:title="Accounts" />
+
+</menu>
